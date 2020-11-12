@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+
+body{
+	
+	width: auto;
+	height: 100%;
+	background: #cccccc url("img/cristo.jpg");
+	background-size: cover;
+	font-family: Arial, Tohoma, sans-serif;
+	color: white;
+	
+	
+	
+}
+
+
+header .container{
+	margin: auto;
+	width: 1000px;
+	
+
+
+}
+
+header .titulo{
+	text-align: center;
+	font-size: 70px;
+}
+	
+.pagina-principal{
+	margin: auto;
+	width: 1000px;
+	margin-top: 30px;
+	
+
+}
+.descricao{
+	margin-left: 10px;
+	padding-right: 10px;
+}

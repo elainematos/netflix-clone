@@ -1,0 +1,12 @@
+@media only screen and (max-width: 1002px){
+
+	header .container, .pagina-principal{
+		display: flex;
+		flex-direction: column;
+		max-width: 400px;
+
+	}
+
+@media screen and (min-width:700px){
+	.descricao{
+		width: 50%;	
