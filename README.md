@@ -1,0 +1,1 @@
+Projeto clone da Página do Netflix, responsiva, com botões linkados, onde o botão assista agora levam a pagina do youtube e o outro leva a informações do video.
